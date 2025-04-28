@@ -1,0 +1,15 @@
+/* packages/SchemaVisualizer/resources/css/schema-visualizer.css */
+
+.mermaid .er-entityBox {
+    cursor: pointer;
+    transition: all 0.2s ease;
+}
+
+.mermaid .er-entityBox:hover {
+    fill: #EFF6FF !important;
+    stroke: #3B82F6 !important;
+}
+
+.mermaid .er-relationshipLine {
+    stroke-width: 2px;
+}
