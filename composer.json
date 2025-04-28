@@ -19,7 +19,6 @@
     ],
     "require": {
         "php": "^8.2",
-        "lara-care/schema-visualizer": "@dev",
         "laravel/framework": "^8.0 || ^9.0 || ^10.0 || ^11.0 || ^12.0",
         "laravel/tinker": "^2.10.1",
         "nikic/php-parser": "*",
