@@ -1,7 +1,7 @@
 {
     "$schema": "https://getcomposer.org/schema.json",
     "name": "lara-care/schema-visualizer",
-    "type": "project",
+    "type": "library",
     "description": "Visualize and analyze Laravel DB schema and models",
     "keywords": [
         "laravel",
